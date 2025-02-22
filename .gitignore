@@ -1,0 +1,40 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+
+# MongoDB
+data/
+mongod.lock
+
+# Express
+logs/
+
+# React
+build/
+public/build/
+src/reportWebVitals.js
+
+# General
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MERN-specific files
+config/
+models/
+routes/
+services/
+utils/
+
+# Ignore unnecessary files
+*.log
+*.tmp
+*.bak
+
+config.env
